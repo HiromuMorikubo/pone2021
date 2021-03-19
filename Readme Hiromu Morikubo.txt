@@ -8,7 +8,7 @@ Author Information: Hiromu Morikubo Center for Advanced IBD Research and Treatme
 
 Taku Kobayashi (Corresponding author) Center for Advanced IBD Research and Treatment, Kitasato University Kitasato Institute Hospital, Tokyo, Japan 5-9-1, Shirokane, Minato-ku, Tokyo 108-8642, Japan.
 
-Date of data collection: 2020-Oct
+Date of data collection: 2020-Sep
 
 File List:
 pone_data_HM_1.xlsx 
